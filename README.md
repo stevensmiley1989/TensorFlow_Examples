@@ -20,8 +20,6 @@ Jupyter Notebook(s) written in Python.
 | [TF_CNN_Sequential_Classification_Sigmoid_Simple.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/TensorFlow_Examples/blob/main/TF_CNN_Sequential_Classification_Sigmoid_Simple/TF_CNN_Sequential_Classification_Sigmoid_Simple.ipynb) | The purpose of this notebook is to create a Convolutional Neural Network (CNN) with TensorFlow for prediction with cats vs. dogs dataset.|
 | [TF_CNN_TransferLearning.ipynb](https://nbviewer.jupyter.org/github/stevensmiley1989/TensorFlow_Examples/blob/main/TF_CNN_TransferLearning/TF_CNN_TransferLearning.ipynb) | The purpose of this notebook is to use Transfer Learning with TensorFlow for prediction with cats vs. dogs dataset.| 
 
-![Results](https://github.com/stevensmiley1989/TensorFlow_Examples/blob/main/TF_CNN_TransferLearning/Results/Training_vs_Evaluation_Accuracy.png)
-
 
 ## 2 Credits/References<a class="anchor" id="2"></a>
 1.  Python. a) Travis E. Oliphant. Python for Scientific Computing, Computing in Science & Engineering, 9, 10–20 (2007) b) K. Jarrod Millman and Michael Aivazis. Python for Scientists and Engineers, Computing in Science & Engineering, 13, 9–12 (2011) <a class="anchor" id="Ref_3"></a>    
