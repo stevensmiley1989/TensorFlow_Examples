@@ -1,7 +1,7 @@
 # TensorFlow_Examples
 ## By Steven Smiley
 
-This repository hosts Jupyter Notebooks used for TensorFlow examples.
+This repository hosts Jupyter Notebooks used for TensorFlow examples of Neural Networks.
 
 # Table of Contents to Repository 
 * [1. Jupyter Notebooks](#1)
